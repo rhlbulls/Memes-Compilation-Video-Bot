@@ -1,6 +1,8 @@
 # Memes-Compilation-Video-Bot
-A Python script that collects memes from Reddit and compiles them into a video. 
+
 ![image](https://user-images.githubusercontent.com/45164745/205436178-47c062f1-43ab-401f-845d-ffeba28af7d4.png)
+
+A Python script that collects memes from Reddit and compiles them into a video. 
 
 ## Steps to Follow
 
